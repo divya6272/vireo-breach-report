@@ -1,0 +1,13 @@
+# Raw data pack: large, and Vireo already has it — don't commit it.
+# Drop the provided CSVs into this folder locally before running the script.
+tickets.csv
+agents.csv
+orders.csv
+customers.csv
+products.csv
+support-policy.pdf
+email-thread.txt
+README.txt
+
+__pycache__/
+*.pyc
