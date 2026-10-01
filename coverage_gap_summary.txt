@@ -1,0 +1,13 @@
+COVERAGE GAP FINDING
+============================================================
+Night-shift roster rows after 2025-06-30: 0 (company-wide)
+
+Breach rate before reshuffle: 9.2%  (run-rate Rs 36,832/quarter)
+Breach rate after reshuffle:  25.0%  (run-rate Rs 194,852/quarter)
+
+Of 2233 breaches since the reshuffle, 1581 (70.8%) happened on tickets created 22:00-06:00 IST — hours with zero staffed agents of any kind.
+
+Breach rate by channel, night hours only (post-reshuffle):
+  chat      100.0%   (n=1036)
+  email      49.7%   (n=779)
+  social     85.9%   (n=184)
